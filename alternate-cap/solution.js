@@ -18,5 +18,6 @@ function capitalize(s){
     thirdArray.push(word2);
   }
   capital();
+  
   return thirdArray;
   };
