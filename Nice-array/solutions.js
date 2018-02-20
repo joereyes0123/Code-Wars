@@ -6,6 +6,7 @@ function isNice(arr){
       console.log(i);
    }
    }
+   
     if(count === arr.length && arr.length !== 0){
     return true
     }else{
